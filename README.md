@@ -7,3 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvasconcelosbr&layout=compact&theme=radical" width="45%">
 </div>
 
+![Snake animation](https://github.com/gabrielvasconcelosbr/gabrielvasconcelosbr/blob/output/github-contribution-grid-snake.svg)
+
+
