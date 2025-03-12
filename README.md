@@ -4,5 +4,5 @@
 - 🤝 I’m looking to collaborate on front-end and design projects.
 - 📫 Reach me at my linkedin - @gabrielvasconcelosbr
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvasconcelosbr&layout=compact&theme=radical)
 
