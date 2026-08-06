@@ -1,5 +1,5 @@
-- 💡 I’m interested in the blend of technology and art.
-- 🌱 I’m currently focusing on JavaScript, React, Java and UI/UX tools.
+- 💡 Building at the intersection of technology and design.
+- 🌱 I’m currently focusing on JavaScript, Angular, Java and UX/UI tools.
 - 🔭 I’m looking to collaborate on front-end and design projects.
 - 📫 Reach me at my linkedin - @gabrielvasconcelosbr
 
